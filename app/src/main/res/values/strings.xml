@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Tuan2_bt6_02_Listview</string>
+
+    <string-array name="myarray">
+        <item>Huỳnh Trọng Phùng</item>
+        <item>Võ Huỳnh Bảo Khương</item>
+        <item>Nguyễn Tấn Lộc</item>
+    </string-array>
+
+</resources>
